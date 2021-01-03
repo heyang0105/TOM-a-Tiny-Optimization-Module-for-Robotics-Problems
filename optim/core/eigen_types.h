@@ -80,6 +80,7 @@ typedef Eigen::Matrix<double, 2, 1> Vec2;
 typedef Eigen::Matrix<double, 1, 1> Vec1;
 typedef Eigen::Matrix<double, Eigen::Dynamic, 1> VecX;
 
+
 // float vectors
 typedef Eigen::Matrix<float, 12, 1> Vec12f;
 typedef Eigen::Matrix<float, 8, 1> Vec8f;
